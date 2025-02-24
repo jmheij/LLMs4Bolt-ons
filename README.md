@@ -1,4 +1,7 @@
-# LLMs4Bolt-ons project
+![LLMs4Bolt-ons_coverslide](https://github.com/user-attachments/assets/316fe294-24a7-4b0e-917f-1361e1989f6e)
+
+# Guide
+
 This repository contains prompts 1-5 used in our study, which is presented in the publication: [pending link for publication]. 
 
 Note that the attached code demonstrates key parts of the analysis for transparency, but the individual data of patients is not publicly accessible. 
@@ -11,6 +14,6 @@ Note that the attached code demonstrates key parts of the analysis for transpare
 
 
 
-![LLMs4Bolt-ons_coverslide](https://github.com/user-attachments/assets/5827903b-b20f-42a0-8dce-8d477e963290)
+
 
 
