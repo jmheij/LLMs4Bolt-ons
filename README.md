@@ -6,4 +6,4 @@ Note that the attached code demonstrates key parts of the analysis for transpare
 
 To view the prompts: Open the file "LLM prompts 1 to 5.ipynb" 
 To view the code to generate the function "call_gpt4", open "def_call_gpt4.ipynb"
-To view the data anonymization algorithm used, open "anonymization.ipynb"
+To view the data anonymization algorithm used, open "Anonymize_JH.ipynb"
